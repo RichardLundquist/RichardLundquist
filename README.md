@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RichardLundquist
 - 👀 I’m interested in ... art, design and tech
-- 🌱 I’m currently learning ... how to repair a tape deck
-- 💞️ I’m looking to collaborate on ... video games! 
 - 📫 How to reach me ... hello@richardlundquist.xyz
 
 <!---
